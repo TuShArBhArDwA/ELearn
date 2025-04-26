@@ -114,3 +114,15 @@ Feel free to open a pull request.
 This project is licensed under the [MIT License](LICENSE).
 
 ---
+
+
+## Connect with Me
+
+Feel free to reach out for any queries or collaboration opportunities!
+
+- **T-Bot:** [🤖 Meet T-Bot & discover my work](https://t-bot-blush.vercel.app/)
+- **PortFolio:** [PortFolio](https://tushar-bhardwaj.vercel.app/)
+- **Connect 1:1** - [Let's Connect](https://topmate.io/tusharbhardwaj)
+- **LinkedIn:** [Tushar Bhardwaj](https://www.linkedin.com/in/bhardwajtushar2004)
+- **GitHub:** [Tushar Bhardwaj](https://github.com/TuShArBhArDwA)
+- **Email:** tusharbhardwaj2617@gmail.com
