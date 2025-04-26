@@ -1,4 +1,5 @@
 # 📚 ELearn – Full Stack Course Selling Platform
+![full](https://github.com/user-attachments/assets/6192a552-fb02-4201-8968-87a0125f56fa)
 
 ELearn is a **dynamic**, **responsive**, and **full stack course selling application** with an **Admin Panel**, **Authentication**, and **Payment Gateway Integration**.  
 It is built using the powerful **MERN stack** — MongoDB, Express.js, React.js, and Node.js — with a beautifully designed UI using **Tailwind CSS**.
